@@ -29,3 +29,5 @@
 </div>
 
 ### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rawandbakr&theme=horizon&hide_border=true)](https://git.io/streak-stats)
