@@ -30,4 +30,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rawandbakr&theme=horizon&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rawandbakr&theme=horizon&hide_border=true&mode=weekly)](https://git.io/streak-stats)
