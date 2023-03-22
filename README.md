@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<a href="https://incomparable-strudel-12f656.netlify.app/">my portfolio website</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
