@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<a href="[https://incomparable-strudel-12f656.netlify.app/](https://rawanda.netlify.app/)">rawanda.netlify.app</a>
+<a href="https://rawanda.netlify.app/">rawanda.netlify.app</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
